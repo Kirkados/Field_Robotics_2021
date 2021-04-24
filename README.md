@@ -7,4 +7,5 @@ This code uses Tensorflow 1.15.0
 
 To run: python3 main.py
 
-The default training run will produce two qudrotors flying on an outdoor runway. 50% of the runs will have one quadrotor fail mid-flight.
+The default training run will produce two qudrotors flying on an outdoor runway. 50% of the runs will have one quadrotor fail mid-flight. Training takes roughly 2 days on an i7-8700K CPU.
+
